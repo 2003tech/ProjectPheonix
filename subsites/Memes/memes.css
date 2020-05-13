@@ -11,9 +11,26 @@ body {
     font-family: 'Montserrat', sans-serif;
 }
 
+.icon {
+    text-align: center;
+    width: 70px;
+    font-size: 45px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 10px;
+    margin: 10px;
+    background-color: #23272a;
+    box-shadow: 5px 5px 1px #212228;
+}
+
+.icon img {
+    border-radius: 10px;
+}
+
 .underconstruction {
     color: #ba1a18;
     text-align: center;
+    width: 570px;
     font-size: 45px;
     padding-top: 5px;
     padding-bottom: 5px;
@@ -27,4 +44,7 @@ body {
     padding-top: 10px;
     font-size: 35px;
     text-align: center;
+    position: absolute;
+    top: 15px;
+    left: 95px;
 }
