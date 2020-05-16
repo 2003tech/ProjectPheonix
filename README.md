@@ -1,4 +1,7 @@
 # Project Pheonix
+
+[![CodeFactor](https://www.codefactor.io/repository/github/2003tech/projectpheonix/badge)](https://www.codefactor.io/repository/github/2003tech/projectpheonix)
+
 Project Pheonix: The collaborative open-source website, arising from the ashes of 2003page.
 
 ## Why was this created?
