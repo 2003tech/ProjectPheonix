@@ -8,8 +8,8 @@
     <meta name="theme-color" content="#9500ff">
 	<link rel="stylesheet" type="text/css" href="mainpage.css"> <!-- Standard CSS with Purple Gradient, shittly taken from 2003page -->
     <script type="text/javascript" src="special/special.js"></script> <!-- "special css" -->
-    <script language="JavaScript">
-//<!--
+    <script type="text/javascript">
+
 function FP_preloadImgs() {//v1.0
  var d=document,a=arguments; if(!d.FP_imgs) d.FP_imgs=new Array();
  for(var i=0; i<a.length; i++) { d.FP_imgs[i]=new Image; d.FP_imgs[i].src=a[i]; }
@@ -30,25 +30,26 @@ function FP_getObjectByID(id,o) {//v1.0
  for(m=0; m<els.length; m++){ el=FP_getObjectByID(id,els[n]); if(el) return el; } }
  return null;
 }
-// -->
+
 </script>
     </head>
   <body onload="FP_preloadImgs(/*url*/'button2.jpg',/*url*/'button3.jpg')">
+  	{% include navbar.html %}
     <p align="center">
       <span style="font-size: 64pt; font-weight: 700">Project Phoenix</span><span style="font-size: 32pt; font-weight: 700"> </span>
-		<font size="3">
+		
     <p align="center"><i><font size="4">The collaborative open-source website, arising from the ashes of 2003page.</font></i></p>
 	<p align="center"><font size="4"><i>
 	<a href="https://github.com/2003tech/ProjectPheonix">GITHUB</a></i></font></p>
 	<p align="center">
 	<a href="subsites/Grumpz/index.html">Grumpz's Subsite.</a> -
 	<a href="subsites/ChazizPF94/index.html">
-	<img border="0" id="img1" src="assets/buttons/subsite/button1.jpg" height="20" width="100" alt="ChazizPF94" onmouseover="FP_swapImg(1,0,/*id*/'img1',/*url*/'assets/buttons/subsite/button2.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img1',/*url*/'assets/buttons/subsite/button1.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img1',/*url*/'assets/buttons/subsite/button3.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img1',/*url*/'assets/buttons/subsite/button2.jpg')" fp-style="fp-btn: Corporate 2" fp-title="ChazizPF94"></a> 
+	<img border="0" id="img1" src="assets/buttons/subsite/button1.jpg" height="20" width="100" alt="ChazizPF94" onmouseover="FP_swapImg(1,0,/*id*/'img1',/*url*/'assets/buttons/subsite/button2.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img1',/*url*/'assets/buttons/subsite/button1.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img1',/*url*/'assets/buttons/subsite/button3.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img1',/*url*/'assets/buttons/subsite/button2.jpg')"></a> 
 	- <a href="subsites/Memes/index.html">Memes&#39; Subsite</a></p>
 <p align="center"><font size="1">In early developement. Invitations are now open.
 -ChazizPF94</font></p>
-	</font>
+	
 	<p align="center"><a href="https://www.youtube.com/watch?v=1x1Zqz01XqI">
-	<img border="0" src="assets/buttons/clickhere_100x20_red.gif" width="100" height="20"></a></p>
+	<img border="0" src="assets/buttons/clickhere_100x20_red.gif" width="100" height="20" alt="Click here"></a></p>
 	</body>
 </html>
