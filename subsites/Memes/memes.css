@@ -59,11 +59,10 @@ body {
 .links a {
     float: none;
     display: block;
-    text-align: left;   
-    margin-bottom: 10px; 
+    margin-bottom: 10px;
     background-color: #23272a;
     box-shadow: 5px 5px 1px #212228;
-    padding: 10px 10px 10px;
+    padding: 10px;
     border-radius: 10px;
     color: white;
     text-decoration: none;
@@ -73,13 +72,12 @@ body {
 .links h1 {
     float: none;
     display: block;
-    text-align: left;   
-    margin-bottom: 10px; 
+    text-align: left;
+    margin-bottom: 10px;
     background-color: #23272a;
     box-shadow: 5px 5px 1px #212228;
-    padding: 10px 10px 10px;
+    padding: 10px;
     border-radius: 10px;
     color: white;
-    text-align: center;
     font-size: 25px;
 }
