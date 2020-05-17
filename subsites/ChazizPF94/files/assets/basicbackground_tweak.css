@@ -4546,7 +4546,7 @@ body:before {
 	cursor: no-drop;
 }
 .emojiItemDisabled-1FvFuF > * {
-	filter: grayscale(1);;
+	filter: grayscale(1);
 }
 #app-mount .emojiItemImageLoading-1yEIxx {					/* picker				emoji loading						*/
 	border-radius: 10px;
