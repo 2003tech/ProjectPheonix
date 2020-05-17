@@ -2,7 +2,7 @@
 
 body
 {
-	background: url(legacy_background_gamerappa.jpg); /* Legacy (Unsupported) browsers */
+	background: url(legacy_background_pf94.jpg); /* Legacy (Unsupported) browsers */
 	background: -moz-linear-gradient(top, rgb(62, 197, 53) 0%, rgb(31, 41, 119) 100%); /* FF 3.6-15 */
 	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgb(62, 197, 53)), color-stop(100%,rgb(31, 41, 119))); /* Chrome 2-9, Safari 4-5 */
 	background: -webkit-linear-gradient(top, rgb(62, 197, 53) 0%,rgb(31, 41, 119) 100%); /* Chrome 10-25, Safari 5.1-6 */

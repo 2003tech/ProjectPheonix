@@ -19,7 +19,7 @@ function getStylesheet() {
 	month = 3 + f((L + 40)/44),
 	day = L + 28 - 31 * f(month / 4);
 	if (1 == mm && 15 == dd) {
-		document.write("<link rel='stylesheet' href='special/mainpage_gamerappa.css' type='text/css'>");
+		document.write("<link rel='stylesheet' href='special/mainpage_pf94.css' type='text/css'>");
 	}
 	if (2 == mm && 1 == dd) {
 		document.write("<link rel='stylesheet' href='special/mainpage_rover.css' type='text/css'>");

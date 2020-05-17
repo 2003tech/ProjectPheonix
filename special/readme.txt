@@ -3,7 +3,7 @@ This is the code, originally from the 'ill fated 2003page's "Special CSS" code t
 Here is a list of the Special CSS, taken from 2003page issue #91, and tweaked a bit.
 
 
-    Crappa's Birthday (January 15th, Green to blue)
+    PF94's Birthday (January 15th, Green to blue)
     Rover's birthday (Febuary 1st, pre-existing rover CSS file)
     Easter (Easter Sunday, Light blue to blue.)
     Valentines Day (Febuary 24th, Red-to-pink)
