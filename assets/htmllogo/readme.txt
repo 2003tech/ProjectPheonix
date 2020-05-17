@@ -1,0 +1,3 @@
+BUTTONS FROM https://www.w3.org/QA/Tools/Icons
+
+They don't really have their own "HTML 5/CSS3" validation crap, shame...
