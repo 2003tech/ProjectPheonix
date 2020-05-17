@@ -1,6 +1,6 @@
 # Project Pheonix
 
-[![CodeFactor](https://www.codefactor.io/repository/github/2003tech/projectpheonix/badge)](https://www.codefactor.io/repository/github/2003tech/projectpheonix)
+[![CodeFactor](https://www.codefactor.io/repository/github/2003tech/projectpheonix/badge)](https://www.codefactor.io/repository/github/2003tech/projectpheonix)![Commits](https://img.shields.io/github/commit-activity/w/2003tech/ProjectPheonix)![LastCommit](https://img.shields.io/github/last-commit/2003tech/ProjectPheonix)![Size](https://img.shields.io/github/repo-size/2003tech/ProjectPheonix)
 
 Project Pheonix: The collaborative open-source website, arising from the ashes of 2003page.
 
