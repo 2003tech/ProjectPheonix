@@ -51,3 +51,13 @@ body {
 	color: #FFFFFF;
 	display: block;
 }
+
+.notas p {
+	padding: 6px 8px 6px 16px;
+	text-decoration: none;
+	font-size: 10px;
+	color: #FFFFFF;
+	display: block;
+	width: 128px;
+    word-wrap: break-word;
+}
