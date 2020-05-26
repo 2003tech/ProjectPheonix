@@ -1,3 +1,3 @@
-This subsite has been archived as it is a duplicate of the subsite already available on RetroSite.ga.
+This subsite has been archived as it is a duplicate of the subsite already available on RetroSite.ga. A link to his retrosite subsite has been removed until futher notice.
 
--PF94, who appranatly, plays Fortnite accoroding to a salty 12 year old child in a comment section.
+-PF94.
